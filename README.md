@@ -33,7 +33,7 @@ With the optimal configuration, we’ve analyzed the letter frequency in "Pinocc
 
 ## Documentation and Presentation
 
-For a deeper dive into the project, check out the [**Documentation**](./Report.pdf). and the presentation slides available above ☝🏻.
+For a deeper dive into the project, check out the [**Documentation**](./Report.pdf). and the  [**presentation slides**](./Presentazione.pdf). available above ☝🏻.
 
 ## Authors
 - **Martina Fabiani**
